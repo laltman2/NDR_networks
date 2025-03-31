@@ -15,7 +15,7 @@
 #Amplitude: 2.5 V
 #Offset: 2.5 V
 #Symmetry: 50 %
-#Phase: 0 °
+#Phase: 0 Â°
 
 Time (s),Channel 1 (V),Channel 2 (V)
 -2.3096619,0.02673248642253954,0.5521686165183062
